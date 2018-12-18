@@ -9,3 +9,6 @@ end
 def not_safe?(speed)
   speed > 60 || speed < 40 ? true : false
 end
+
+
+# think this is all correct but something strange is going on with the learn test command.
